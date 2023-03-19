@@ -1,9 +1,6 @@
 import React from 'react';
 
 
-
-
-
 export default function Navegacion() {
       
     return (
@@ -11,7 +8,7 @@ export default function Navegacion() {
         <div className="container-fluid">
         <div className="container">
           <a className="navbar-brand" href='/pokeapi/'>
-            <img src="logo.png" alt="" width="30" height="24"></img>
+            <img src="/logo.png" alt="" width="36" height="36"></img>
           </a>
         </div>
           <div className="collapse navbar-collapse" id="navbarNav">

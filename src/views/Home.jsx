@@ -15,10 +15,10 @@ export default function Home() {
       width: 600,
       padding: "3em",
       color: "#ffff00",
-      background: "#000 url(/logo2.png)",
+      background: "#000 url("+ process.env.PUBLIC_URL + "/logo2.png)",
       backdrop: `
         rgba(0,0,123,0.4)
-        url("/pokemon.gif")
+        url('${process.env.PUBLIC_URL}/pokemon.gif')
         left top
         no-repeat
       `,

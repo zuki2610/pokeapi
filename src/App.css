@@ -40,3 +40,7 @@
   width: 11%;
   margin-left: 45%;
 }
+.active {
+  background-color: #b6b6b6;
+  color: rgb(21, 21, 21);
+}

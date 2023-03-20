@@ -14,8 +14,8 @@ export default function Home() {
       title: "Bienvenido maestro Pokemon",
       width: 600,
       padding: "3em",
-      color: "#ffff00",
-      background: "#000 url("+ process.env.PUBLIC_URL + "/logo2.png)",
+      color: "#000",
+      background: "#Fff302",
       backdrop: `
         rgba(0,0,123,0.4)
         url('${process.env.PUBLIC_URL}/pokemon.gif')

@@ -1,5 +1,5 @@
 <h1>Pokeapi creada para Desafio Latam</h1>
-<h2>Disponible en la url:</h2> 
+<h2>Disponible en la url: https://zuki2610.github.io/pokeapi/ </h2> 
 <h3>Proyecto realizado en React</h3>
 
 
